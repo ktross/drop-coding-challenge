@@ -1,0 +1,23 @@
+{
+  "name": "drop-coding-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktross/drop-coding-challenge.git"
+  },
+  "author": "Kyle Ross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ktross/drop-coding-challenge/issues"
+  },
+  "homepage": "https://github.com/ktross/drop-coding-challenge#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "sqlite3": "^4.0.8"
+  }
+}
